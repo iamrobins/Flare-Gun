@@ -9,7 +9,7 @@
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print(" Blank Filterscript by your name here");
+	print(" SAMP Flare Gun Mod by Robin Singh");
 	print("--------------------------------------\n");
 	return 1;
 }
@@ -24,7 +24,7 @@ public OnFilterScriptExit()
 main()
 {
 	print("\n----------------------------------");
-	print(" Blank Gamemode by your name here");
+	print(" SAMP Flare Gun Mod by Robin Singh");
 	print("----------------------------------\n");
 }
 
