@@ -1,0 +1,60 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:04:43] 
+[17:04:43] Server Plugins
+[17:04:43] --------------
+[17:04:43]  Loaded 0 plugins.
+
+[17:04:43] 
+[17:04:43] Filterscripts
+[17:04:43] ---------------
+[17:04:43]   Loading filterscript 'gl_actions.amx'...
+[17:04:43]   Loading filterscript 'gl_realtime.amx'...
+[17:04:43]   Loading filterscript 'gl_property.amx'...
+[17:04:43] 
+-----------------------------------
+[17:04:43] Grand Larceny Property Filterscript		
+[17:04:43] -----------------------------------
+
+[17:04:43]   Loading filterscript 'gl_mapicon.amx'...
+[17:04:43]   Loading filterscript 'ls_elevator.amx'...
+[17:04:43]   Loading filterscript 'attachments.amx'...
+[17:04:43]   Loading filterscript 'skinchanger.amx'...
+[17:04:43] 
+--Admin Player Skin Changer Loaded
+
+[17:04:43]   Loading filterscript 'vspawner.amx'...
+[17:04:43] 
+--Admin Vehicle Spawner Loaded
+
+[17:04:43]   Loading filterscript 'ls_mall.amx'...
+[17:04:43]   Loading filterscript 'ls_beachside.amx'...
+[17:04:43] 
+
+[17:04:43]   |---------------------------------------------------
+[17:04:43]   |--- LS BeachSide Filterscript
+[17:04:43]   |--  Script v1.03
+[17:04:43]   |--  19th April 2015
+[17:04:43]   |---------------------------------------------------
+[17:04:43]   |--  LS BeachSide Building Elevator created
+[17:04:43]   |---------------------------------------------------
+[17:04:43]   Loaded 10 filterscripts.
+
+[17:04:43] Reading File: blank
+[17:04:43] Reading File: properties/houses.txt
+[17:04:43] Reading File: properties/businesses.txt
+[17:04:43] Reading File: properties/banks.txt
+[17:04:43] Reading File: properties/police.txt
+[17:04:43] 
+----------------------------------
+[17:04:43]  SAMP Flare Gun Mod by Robin Singh
+[17:04:43] ----------------------------------
+
+[17:04:43] Number of vehicle models: 0
